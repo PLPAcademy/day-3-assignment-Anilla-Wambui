@@ -50,4 +50,4 @@ What is the purpose of setting a root password during MySQL installation?
 B) To secure your MySQL installation with a super-secret password
 
 How do you begin managing your database after installing MySQL?
-B) Launch MySQL Workbench and connect to your MySQL Server
+B) Launch MySQL Workbench and connect to your MySQL Server.
